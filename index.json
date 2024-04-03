@@ -1,36 +1,36 @@
 {
     "Testimonials":[
         {
-        "name1": "Matthew Brown",
+        "name": "Matthew Brown",
         "relation": "Lecturer",
         "testimonial": "Naeema is a consistent, dedicated and hardworking student. She is always willing to learn and has a positive attitude towards learning which facilitates her growth and allows for creativity in her work."
         },
         {
-            "name2": "Ntando Nokilana",
+            "name": "Ntando Nokilana",
             "relation": "Peer",
             "testimonial": "Naeema is a highly dedicated young woman. She approaches every task with grace, intelligence, and unwavering commitment. Her remarkable work ethic permeates all her endeavours, and her ability to quickly adapt is truly impressive.",
             "portfolio":"https://www.w3schools.com/"
         },
         {
-            "name3" : "Onika Sileku",
+            "name" : "Onika Sileku",
             "relation": "Peer",
             "testimonial": "It is  exciting to witness Naeema Omar growth as a developer. Her adaptability and enthusiasm for learning have not only contributed to her personal development but have also positively impacted the dynamics of our work. I am confident that she will achieve great milestones in her career.",
             "portfolio":"https://www.w3schools.com/"
         },
         {
-            "name4" : "Asithandile Tyulu",
+            "name" : "Asithandile Tyulu",
             "relation": "Peer",
             "testimonial": "Naeema's combination of unwavering diligence and hard work combined with her remarkable level of intelligence make her a standout professional. Her articulate communication skills further elevate her abilities.",
             "portfolio":"https://www.w3schools.com/"
         },
         {
-            "name5": "Tyhiesha Johnson",
+            "name": "Tyhiesha Johnson",
             "relation": "Peer",
             "testimonial": "Naeema Omar is a solid problem-solver. With her logical approach and calm demeanor she identifies, analyzes and resolves both coding and practical issues. She has an impactful voice with a cheery energy and great adaptability within a team or group setting.",
             "portfolio":"https://www.w3schools.com/"
         }, 
         {
-            "name5": "Seth Tobias",
+            "name": "Seth Tobias",
             "relation": "Peer",
             "testimonial": "Naeema Omar is a very inquisitive and curious person who is determined to achieve her goals. These characteristics allow her to fully immerse herself in whatever she applies herself to. She is a person that will quarentee results irrespective of any outside factors. While this does lead to some interesting situations to say the least, at the end of the day, that is just a by product of her unwavering will to succeed." ,
             "portfolio":"https://www.w3schools.com/"
